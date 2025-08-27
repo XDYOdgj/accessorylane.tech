@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://accessorylane.tech/sitemap.xml
